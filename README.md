@@ -52,13 +52,14 @@ Browser Access
 
 ```
 dockerized-nginx-web-server/
-
 │
 ├── Dockerfile
 ├── index.html
+├── docker-images.png
+├── docker-container-management.png
+├── docker-container-logs.png
+├── nginx-website-output.png
 └── README.md
-```
-
 ---
 
 # 🐳 Docker Implementation
